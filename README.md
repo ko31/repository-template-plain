@@ -8,3 +8,9 @@
 ├─ .gitignore
 └─ README.md
 ```
+
+## Settings
+
+```
+git config commit.template .commit_template
+```
